@@ -90,7 +90,7 @@ export function ChristmasForm() {
   }
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-b from-green-50 to-red-50 p-4 sm:p-6 lg:p-8">
+    <div className="min-h-screen flex items-center justify-center bg-indigo-950 p-4 sm:p-6 lg:p-8">
       <Card className="w-full max-w-md sm:max-w-lg">
         <div className="relative">
           <div className="absolute top-0 left-0 w-full h-1 bg-muted">
